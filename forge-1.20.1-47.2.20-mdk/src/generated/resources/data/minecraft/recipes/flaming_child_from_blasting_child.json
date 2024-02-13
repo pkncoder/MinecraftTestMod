@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 10,
+  "experience": 0.25,
+  "group": "child",
+  "ingredient": {
+    "item": "pknmod:child"
+  },
+  "result": "pknmod:flaming_child"
+}
